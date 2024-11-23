@@ -1,0 +1,1 @@
+{"itens":[{"nome":"HD Virtual - 256Gb","preco":20},{"nome":"SSD Virtual - 128Gb","preco":30},{"nome":"RAM Virtual - 4Gb","preco":40},{"nome":"RAM Dedicada Virtual - 2Gb","preco":60}]}
